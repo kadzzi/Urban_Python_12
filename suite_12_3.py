@@ -1,4 +1,4 @@
-from tests_for_suite import RunnerTest, TournamentTest
+from tests_12_3 import RunnerTest, TournamentTest
 import unittest
 
 
