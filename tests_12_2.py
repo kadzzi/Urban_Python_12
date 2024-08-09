@@ -37,7 +37,6 @@ class TournamentTest(unittest.TestCase):
         TournamentTest.all_results[5] = result
         self.assertTrue(result[3] == self.nick)
 
-
     @classmethod
     def tearDownClass(cls):
         for v in dict(sorted(cls.all_results.items())).values():
