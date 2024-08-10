@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d96cd5bc-2205-4589-9832-0a62c02d52b8" name="Changes" comment="edited runner_and_tournament.py del .copy()">
-      <change afterPath="$PROJECT_DIR$/suite_12_3.py" afterDir="false" />
+    <list default="true" id="d96cd5bc-2205-4589-9832-0a62c02d52b8" name="Changes" comment="tests renamed to suite_12_3.py">
+      <change afterPath="$PROJECT_DIR$/tests_12_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +48,11 @@
   "keyToString": {
     "Python tests.Python tests in tests_12_1.py.executor": "Run",
     "Python tests.Python tests in tests_12_2.py.executor": "Run",
+    "Python tests.Python tests in tests_12_4.py.executor": "Run",
     "Python.suite_12_3.executor": "Run",
     "Python.tests_12_1.executor": "Run",
     "Python.tests_12_2.executor": "Run",
+    "Python.tests_12_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -103,7 +105,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723235472685</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added suite_12_3.py and all tests">
+      <option name="closed" value="true" />
+      <created>1723242637565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723242637565</updated>
+    </task>
+    <task id="LOCAL-00006" summary="tests renamed to suite_12_3.py">
+      <option name="closed" value="true" />
+      <created>1723243027538</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723243027538</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -111,6 +129,8 @@
     <MESSAGE value="added tests_12_2.py + runners" />
     <MESSAGE value="edited tests_12_2.py PEP8" />
     <MESSAGE value="edited runner_and_tournament.py del .copy()" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited runner_and_tournament.py del .copy()" />
+    <MESSAGE value="added suite_12_3.py and all tests" />
+    <MESSAGE value="tests renamed to suite_12_3.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests renamed to suite_12_3.py" />
   </component>
 </project>
